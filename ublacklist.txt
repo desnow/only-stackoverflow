@@ -2,6 +2,7 @@
 # 이 파일을 복사하지 말고 아래 링크를 구독해주세요.
 # https://raw.githubusercontent.com/RyuaNerin/only-stackoverflow/master/ublacklist.txt
 #
+*://*.code-pager.com/*
 *://adoclib.com/*
 *://alwaysemmyhope.com/*
 *://answer-id.com/*
@@ -21,6 +22,7 @@
 *://c10106.tistory.com/*
 *://cache.one/*
 *://cainhuang.com/*
+*://catchconsole.com/*
 *://cnpnote.tistory.com/*
 *://coddingbuddy.com/*
 *://code-examples.net/*
@@ -45,6 +47,7 @@
 *://developreference.com/*
 *://e-learn.cn/*
 *://example-code.com/*
+*://exchangetuts.com/*
 *://firstlightsalon.in/*
 *://generacodice.com/*
 *://generacodice.it/*
@@ -71,7 +74,9 @@
 *://itectec.com/*
 *://itsource.tistory.com/*
 *://java2020.com/*
+*://javacodexamples.com/*
 *://javaer101.com/*
+*://javafixing.com/*
 *://kejisen.com/*
 *://knews.vip/*
 *://ko.ojit.com/*
@@ -86,6 +91,7 @@
 *://minorman.tistory.com/*
 *://newbedev.com/*
 *://nicescript.tistory.com/*
+*://ogeek.cn/*
 *://optionbox.tistory.com/*
 *://ostack.cn/*
 *://presmarymethuen.org/*
@@ -105,6 +111,7 @@
 *://semicolonworld.com/*
 *://serveanswer.com/*
 *://smnggeophysics.com/*
+*://solveforum.com/*
 *://src-bin.com/*
 *://stackanswers.net/*
 *://stackguides.com/*
@@ -113,9 +120,11 @@
 /^.*:\/\/stackovernet\.\w*\//
 *://stackoverrun.com/*
 *://svcministry.org/*
+*://techhelpnotes.com/*
 *://thefunky-monkey.com/*
 *://thetopsites.net/*
 *://thinbug.com/*
+*://tonsu.in/*
 *://topgoodhosting.com/*
 *://tr.coredump.biz/*
 *://turismocomunitarioguatemala.com/*

@@ -4,6 +4,7 @@
 # This file will be rearranged on build. So please add the new hosts after the last line.
 # You can use wildcard characters (* and ?).
 ####################################################################################################
+*.code-pager.com
 adoclib.com
 alwaysemmyhope.com
 answer-id.com
@@ -23,6 +24,7 @@ c0debot.com
 c10106.tistory.com
 cache.one
 cainhuang.com
+catchconsole.com
 cnpnote.tistory.com
 coddingbuddy.com
 code-examples.net
@@ -50,6 +52,7 @@ develop-bugs.com
 developreference.com
 e-learn.cn
 example-code.com
+exchangetuts.com
 firstlightsalon.in
 generacodice.com
 generacodice.it
@@ -76,7 +79,9 @@ itboxs.tistory.com
 itectec.com
 itsource.tistory.com
 java2020.com
+javacodexamples.com
 javaer101.com
+javafixing.com
 kejisen.com
 knews.vip
 ko.ojit.com
@@ -91,6 +96,7 @@ microeducate.tech
 minorman.tistory.com
 newbedev.com
 nicescript.tistory.com
+ogeek.cn
 optionbox.tistory.com
 ostack.cn
 presmarymethuen.org
@@ -110,6 +116,7 @@ runebook.dev
 semicolonworld.com
 serveanswer.com
 smnggeophysics.com
+solveforum.com
 src-bin.com
 stackanswers.net
 stackguides.com
@@ -118,9 +125,11 @@ stackovergo.com
 stackovernet.*
 stackoverrun.com
 svcministry.org
+techhelpnotes.com
 thefunky-monkey.com
 thetopsites.net
 thinbug.com
+tonsu.in
 topgoodhosting.com
 tr.coredump.biz
 turismocomunitarioguatemala.com
